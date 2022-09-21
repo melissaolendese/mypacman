@@ -1,4 +1,4 @@
-# mypacman
+# PacMan
 Pac-Man is my project on taking the popular gaming icon "Pac-Man" and making him move across the screen.
 
 Skills used in this project:
